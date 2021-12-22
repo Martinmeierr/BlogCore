@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33208d9b-fd03-4f87-8fa1-c5cc5162f131": {
+      "ProjectGuid": "33208d9b-fd03-4f87-8fa1-c5cc5162f131",
+      "DisplayName": "ProyectoBlogCore.Models.Categoria",
+      "ColorIndex": 0
+    },
+    "e18ce026-bddb-43da-aa97-2d6a091f5ee6": {
+      "ProjectGuid": "e18ce026-bddb-43da-aa97-2d6a091f5ee6",
+      "DisplayName": "BlogCore.AccesoDatos",
+      "ColorIndex": 1
+    },
+    "e3f2c34c-319b-4257-928c-947ff37da5b2": {
+      "ProjectGuid": "e3f2c34c-319b-4257-928c-947ff37da5b2",
+      "DisplayName": "BlogCore.Models",
+      "ColorIndex": 2
+    },
+    "8e84d399-678f-4eda-b2b7-4d7a78e5bf59": {
+      "ProjectGuid": "8e84d399-678f-4eda-b2b7-4d7a78e5bf59",
+      "DisplayName": "BlogCore.Utilidades",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
